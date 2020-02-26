@@ -82,7 +82,7 @@ GEM
     multi_json (1.12.1)
     mysql2 (0.4.5)
     nio4r (1.2.1)
-    nokogiri (1.10.7)
+    nokogiri (1.10.8)
       mini_portile2 (~> 2.4.0)
     puma (3.12.2)
     rack (2.0.8)
